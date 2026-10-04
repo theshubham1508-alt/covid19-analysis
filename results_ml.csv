@@ -1,0 +1,3 @@
+model,RMSE,MAPE_percent
+Baseline lag_1 (1-day ahead),242.8,8.8
+Random Forest (1-day ahead),196.3,7.1

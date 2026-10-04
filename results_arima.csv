@@ -1,0 +1,2 @@
+model,RMSE,MAPE_percent
+ARIMA (30-day ahead),2303.7,59.5
